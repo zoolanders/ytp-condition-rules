@@ -1,0 +1,12 @@
+{
+    "name": "yooessentials_access_myrule",
+    "title": "My Rule",
+    "group": "mygroup",
+    "description": "My Rule description.",
+    "icon": "${url:~theme/rules/MyRule/icon.svg}",
+    "fields": {
+        "fieldName": {
+            "text": "Optional Field"
+        }
+    }
+}
